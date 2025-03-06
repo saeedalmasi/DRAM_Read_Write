@@ -1,6 +1,7 @@
 Arduino at mega 2560 have been able to write entire capability of DRAM-D41256C and also  read all of data that have been written and monitored that.
 This DRAM have a time tables to writing and reading which based on thouse table could adjusted or code, time table provided below:
-![image](https://github.com/user-attachments/assets/cd7c0b83-2556-4b37-a80d-57cba4f92145)
+![image](https://github.com/user-attachments/assets/be9c12b1-d242-4a2d-a2bc-0bebe11a5262)
+
 ![image](https://github.com/user-attachments/assets/508afcb8-78a3-49b5-bc8c-797f8f53be80)
 
 The connection has provided in above image:
